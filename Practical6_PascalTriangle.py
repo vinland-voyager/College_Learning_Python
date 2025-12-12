@@ -11,7 +11,6 @@ Pascal's Triangle Example (with 5 rows):
 '''
 
 rows = int(input("Please enter the number of rows: "))
-base = 1
 
 for i in range(rows):
     for j in range(rows, i, -1):

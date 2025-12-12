@@ -1,6 +1,9 @@
-# Write a python program to check given number is a prime number or not
-# Use while loop and if-else
-# Show factors that are not prime
+'''
+Practical 4:
+Write a python program to check given number is a prime number or not
+Use while loop and if-else
+Show factors that are not prime
+'''
 
 num = int(input("Enter the number to be checked: "))
 counter = 2

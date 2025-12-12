@@ -1,4 +1,7 @@
-# Write a Python program to check whether a given number is a palindrome or not.
+'''
+Practical 5:
+Write a Python program to check whether a given number is a palindrome or not.
+'''
 
 number = int(input("Enter a number: "))
 numlst = list(str(number))
